@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning at [**FPT University**](https://daihoc.fpt.edu.vn/)
 
-💼 I’m currently **AI Engineer** at [**FPT Software**](https://fptsoftware.com/)
+💼 I used to be **AI Engineer** at [**FPT Software**](https://fptsoftware.com/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nghiapd1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-pd-776a92256/) 
