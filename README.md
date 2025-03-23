@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-<h3 align="center">I'm a Researcher and AI developer</h3>
+<h3 align="center">I'm a Researcher and AI engineer</h3>
 
 🌍 I'm based in Vietnamese 
  
