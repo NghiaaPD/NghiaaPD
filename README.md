@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🌍 I'm based in Vietnamese 
  
-🔭 I’m currently Vice President/Academic Chairman of [**F-Code Club**](https://www.facebook.com/fcodeclub)
+🔭 I used to be a Vice President/Academic Chairman of [**F-Code Club**](https://www.facebook.com/fcodeclub)
 
 🌱 I’m currently learning at [**FPT University**](https://daihoc.fpt.edu.vn/)
 
