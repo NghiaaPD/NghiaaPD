@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 💼 I used to be **AI Engineer** at [**FPT Software**](https://fptsoftware.com/)
 
+🔬 You can find my research publications on [**Google Scholar**](https://scholar.google.com/citations?user=z9cM_XIAAAAJ&hl=vi&oi=ao) 
+
 ## 🌐 Socials:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4721-8594) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=z9cM_XIAAAAJ&hl=vi&oi=ao) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nghiapd1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-pd-776a92256/) 
 
